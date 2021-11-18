@@ -62,10 +62,6 @@ sections:
     title: Services & Experiences
     subtitle: 'Like we said, it''s more than just fishing'
     actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
       - label: Learn more
         altText: Learn more
         url: /
