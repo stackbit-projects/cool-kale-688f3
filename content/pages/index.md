@@ -86,7 +86,7 @@ sections:
           - pb-12
           - pr-4
           - pl-4
-        justifyContent: flex-end
+        justifyContent: flex-start
         borderWidth: 0
       title:
         fontWeight: '700'
