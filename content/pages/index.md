@@ -14,10 +14,6 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Get Started
-        url: /
-        style: primary
-      - type: Button
         label: Learn More
         url: /
         style: secondary
