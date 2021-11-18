@@ -21,7 +21,7 @@ sections:
         icon: arrowRight
     feature:
       type: ImageBlock
-      url: /images/hero-image.png
+      url: /images/fisherwoman2.jpg
       altText: Hero section image
     styles:
       self:
