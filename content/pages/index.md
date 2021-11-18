@@ -87,6 +87,7 @@ sections:
           - pr-4
           - pl-4
         justifyContent: flex-end
+        borderWidth: 2
       title:
         fontWeight: '700'
         fontStyle: normal
